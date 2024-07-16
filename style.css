@@ -109,6 +109,7 @@ h4 {
     .hr-top{
         background-image: url(bg-pattern-card.svg);
         background-size: 101% 186px;
+        background-position: 0 0;
     }
 }
 
